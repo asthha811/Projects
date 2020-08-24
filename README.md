@@ -1,0 +1,1 @@
+Projects Ideas using Machine Learning and OpenCV. 
